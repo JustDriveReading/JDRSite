@@ -1,0 +1,47 @@
+/* Header */
+* {box-sizing: border-box;}
+
+.header {
+  background-image: url("K:\SonyaSite\Images\White_Background.jpg");
+  background-repeat: no-repeat;
+  background-color: #cccccc;
+  background-position: center;
+  padding: 1px 1px;
+}
+
+.header a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 10px;
+  text-decoration: none;
+  font-size: 18px; 
+  line-height: 20px;
+  border-radius: 2px;
+}
+
+.header a:hover {
+  background-color: white;
+  color: black;
+}
+
+.header a.active {
+  background-color: dodgerblue;
+  color: white;
+}
+
+.header-right {
+  float: right;
+}
+
+@media screen and (max-width: 500px) {
+  .header a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .header-right {
+    float: none;
+  }
+}
