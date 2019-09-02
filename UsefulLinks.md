@@ -13,8 +13,7 @@
 <link rel="stylesheet" type="text/css" href="C:\Users\hp\Documents\SonyaSite\CSS\table.css">
 
 
-<title> Just Drive Reading Useful Links
-	</title>
+<title> Just Drive Reading Useful Links </title>
 
 <div class="content">
 <div class="header">
