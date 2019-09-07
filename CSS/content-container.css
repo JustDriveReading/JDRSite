@@ -9,4 +9,5 @@ content-container {
 #wrap { 
 	width: 900px; 
 	margin: 0 auto; 
+	background: white;
 }
