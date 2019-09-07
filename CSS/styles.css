@@ -2,5 +2,7 @@ body {
   display:block;
   background-image: url(https://www.pinterest.co.uk/pin/341429215494566815/);
   background-repeat: repeat;
+  margin:0;
+  padding:0;
 
 }
