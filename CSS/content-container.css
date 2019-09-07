@@ -1,13 +1,8 @@
-content-container {
-  max-width: 1000px;
-  margin: auto;
-  background: white;
-  padding: 10px;
-}
+/* Code to center the page w/ white background */
 
-/* "auto" makes the left and right margins center the wrapper */
 #wrap { 
 	width: 900px; 
 	margin: 0 auto; 
 	background: white;
+	padding: 10px;
 }
