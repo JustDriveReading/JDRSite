@@ -1,6 +1,6 @@
-#body {
+body {
   display:block;
-  background-image: (Images/Blue_Background.jpg);
+  background-image: url(Images/Blue_Background.jpg);
   background-repeat: repeat;
 
 }
