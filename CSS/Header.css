@@ -21,27 +21,27 @@
 }
 
 .header a:hover {
-  background-color: #cccccc;
+  background-color: none;
   color: black;
 }
 
 .header a.active {
   background-color: dodgerblue;
-  color: #cccccc;
+  color: none;
 }
 
 .header-right {
   float: right;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 1000px) {
   .header a {
-    float: none;
+    float: left;
     display: block;
     text-align: left;
   }
   
   .header-right {
-    float: none;
+    float: right;
   }
 }
