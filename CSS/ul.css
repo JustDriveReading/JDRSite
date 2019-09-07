@@ -1,5 +1,6 @@
 ul {
   list-style: none;
+  color: #000080;
 }
 
 ul li::before {
