@@ -21,13 +21,13 @@
 }
 
 .header a:hover {
-  background-color: white;
+  background-color: #cccccc;
   color: black;
 }
 
 .header a.active {
   background-color: dodgerblue;
-  color: white;
+  color: #cccccc;
 }
 
 .header-right {
