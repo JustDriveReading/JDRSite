@@ -9,5 +9,5 @@ body {
   -webkit-background-size: repeat;
   -moz-background-size: repeat;
   -o-background-size: repeat;
-  overflow: hidden;
+  overflow: scroll;
 }
